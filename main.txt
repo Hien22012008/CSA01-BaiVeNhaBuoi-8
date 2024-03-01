@@ -1,0 +1,15 @@
+
+Câu 1:
+-Từ khóa JOIN và UNION đều được sử dụng trong câu lệnh truy vấn SQL để kết hợp dữ liệu từ các bảng hoặc kết quả của các truy vấn khác.
+
+Câu 2: 
+-Kiểu JOIN đảm bảo kết quả thu được luôn có tối thiểu 1 dòng là INNER JOIN. Vì INNER JOIN trả về các dòng từ cả hai bảng mà có điều kiện kết nối được thỏa mãn.
+
+Câu 3:
+B
+
+Câu 4:
+B
+
+Câu 5:
+C
